@@ -1,1 +1,2 @@
-TinDog Starting Files
+TinDog
+A basic front-end website
